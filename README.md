@@ -8,6 +8,7 @@ Data analysis system, where the system is imported batches of files with their p
 - Spring Boot: 2.2.x
 - Lombok: 1.18.x
 - MongoDB
+- JUnit5
 
 #### Build:
 ```
