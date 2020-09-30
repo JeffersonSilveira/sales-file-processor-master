@@ -4,9 +4,20 @@ Description of the challenge in the link below:
 Data analysis system, where the system is imported batches of files with their predefined layout's, will read and analyze the data and produce a report.
 
 ### Technologies used
-- Java 8
-- SpringBoot
+- JDK8
+- Spring Boot: 2.2.x
+- Lombok: 1.18.x
 - MongoDB
+
+#### Build:
+```
+./mvnw clean install
+```
+
+#### Create Directory structure:
+- ${HOMEPATH}/data/in
+- ${HOMEPATH}/data/out
+---
 
 Instructions for installing the **MongoDB**: [https://docs.mongodb.com/manual/installation/](https://docs.mongodb.com/manual/installation/)
 
