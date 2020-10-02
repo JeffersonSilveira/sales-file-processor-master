@@ -3,6 +3,7 @@ Description of the challenge in the link below:
 # sales-file-processor-master
 Data analysis system, where the system is imported batches of files with their predefined layout's, will read and analyze the data and produce a report.
 
+
 ### Technologies used
 - JDK8
 - Spring Boot: 2.2.x
